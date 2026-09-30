@@ -1,7 +1,7 @@
 # Hi, I'm Julian Figueroa 👋 
 ### Software Engineer | Backend & Distributed Systems | Go, REST, Protobuf
 
-I'm a Software Engineer with 12+ years of experience building high-scale distributed systems, security/identity infrastructure, and developer tooling. My primary focus is **Go**, system performance, and crafting delightful developer experiences.
+I'm a Software Engineer based in Colombia 🇨🇴 with 12+ years of experience building high-scale distributed systems, security/identity infrastructure, and developer tooling. My primary focus is **Go**, system performance, and crafting delightful developer experiences.
 
 ---
 
